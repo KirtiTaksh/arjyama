@@ -1,0 +1,13 @@
+#Lets_Chat_App {
+    color: white;
+}
+
+body {
+    background-color: blue; 
+    color:white;
+    font-size: 30px;
+}
+
+#send {
+    color: white;
+}
